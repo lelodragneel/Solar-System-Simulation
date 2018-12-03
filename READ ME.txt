@@ -1,0 +1,31 @@
+My extra feature is planet textures.
+I have added 128x128 textures and mapped them to every spherical planet. Furthermore, I have added custom lighting to the worldspace, and I added toggleable planet names that float above the planets.
+And in addition, I should mention that I used a Quaternion method of manipulating the camera. This gives control over the forward vector and such.
+
+References:
+https://www.c-sharpcorner.com/article/3d-planetary-system-in-opengl/
+
+Texture Sources (each have been scaled manually):
+
+Earth:
+https://d1a9v60rjx2a4v.cloudfront.net/2013/10/03/02_59_45_460_Earth_Diffuse_t_1.jpg
+Sun:
+http://www.mathematik.uni-marburg.de/~menzel/images/Tutorial_Sun/SunTexture_2048.png
+Moon:
+https://d1a9v60rjx2a4v.cloudfront.net/2013/10/03/02_59_45_185_moon_Deffuse_t.jpg
+Mercury:
+https://thumbs-prod.si-cdn.com/Jy3E16w9UvsEIu3oRovybpIfjuY=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/ee/ae/eeae758f-fbe2-4112-aa0f-b9b6eb326a36/mercury_craters_0.png
+Mars:
+http://spiralgraphics.biz/packs/terrain_desert_barren/previews/Mars.jpg
+Jupiter:
+http://spiralgraphics.biz/packs/terrain_volcanic_gaseous/previews/By%20Jupiter.jpg
+Saturn:
+https://t1.rbxcdn.com/f0a352df02000dda8ffac858a2e697d1
+Uranus:
+https://www.solarsystemscope.com/textures/download/2k_uranus.jpg
+Neptune:
+https://img-new.cgtrader.com/items/735729/d1929d1d52/photorealistic-neptune-16k-textures-3d-model-low-poly-animated-rigged-max-obj-fbx-blend.jpg
+Venus:
+https://photojournal.jpl.nasa.gov/jpeg/PIA00203.jpg
+Pluto:
+https://img00.deviantart.net/bf0c/i/2010/344/a/b/rock_planet_texture___flat_by_tbh_1138-d34l30e.jpg
